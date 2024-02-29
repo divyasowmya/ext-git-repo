@@ -1,1 +1,2 @@
 Configure GitHub integration for CodeBeamer
+modify github integration setup for codebeamer
